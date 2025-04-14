@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoy1206" alt="tanmoy1206" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/tanmoyd15368442" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/tanmoyd15368442?logo=twitter&style=for-the-badge" alt="https://x.com/tanmoyd15368442" /></a> </p>
+<p align="left"> <a href="https://x.com/tanmoyd15368442" target="blank"><img src="https://x.com/tanmoyd15368442?logo=twitter&style=for-the-badge" alt="https://x.com/tanmoyd15368442" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, DSA**
+- 🌱 I’m currently learning **DSA in Java**
 
 - 👨‍💻 All of my projects are available at [https://tanmoydey12.netlify.app/](https://tanmoydey12.netlify.app/)
 
